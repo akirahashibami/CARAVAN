@@ -1,24 +1,5 @@
-# README
+# Ruby on Rails で作成したCARAVANです
+「アプリケーションを完成させよう」で作成したサイトになります。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ローカル環境でのみ動作確認
+ローカル環境で動作を確認してあります。
